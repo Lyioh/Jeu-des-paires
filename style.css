@@ -1,0 +1,27 @@
+ .container {
+   display: contents;
+} 
+
+.imageSecrete {
+    display: inline-block;
+    background-image: url("images/bloc_mystere.jpg");
+    background-repeat: no-repeat;
+    height: 185px;
+    width: 185px;
+}
+
+.imageSecrete p {
+    display: none;
+}
+
+.start {
+    position: relative;
+    display: inline-block;
+    top: -82px;
+    height: 150px;
+    width: 150px;
+    border-radius: 90%;
+    left: 21px;
+    font-weight: 900;
+    font-size: 20px;
+}
